@@ -8,4 +8,4 @@ License
 
 Licensed under MIT
 
-Copyright (c) 2017 [XTRABYTES Ltd](https://xtrabytes.global)
+Copyright (c) 2018 [XTRABYTES Ltd](https://xtrabytes.global)
